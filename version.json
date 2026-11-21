@@ -8,6 +8,11 @@
             "version": "0.0.13",
             "url": "https://github.com/wyattturtle19-sys/littledreams/releases/download/0.0.13/patch_0.0.13.pck",
             "size_bytes": 1410628
+        },
+        {
+            "version": "0.1.13",
+            "url": "https://github.com/wyattturtle19-sys/littledreams/releases/download/0.1.13/patch_0.1.13.pck",
+            "size_bytes": 49415924
         }
     ]
 }
