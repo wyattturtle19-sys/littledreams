@@ -2,7 +2,7 @@
     "latest_version": "0.0.12",
     "pck_url": "https://github.com/wyattturtle19-sys/littledreams/releases/download/0.0.12/Little.Dreams.pck",
     "full_pck_size_bytes": 0,
-    "current_version": "0.1.13",
+    "current_version": "0.1.14",
     "patches": [
         {
             "version": "0.0.13",
@@ -13,6 +13,11 @@
             "version": "0.1.13",
             "url": "https://github.com/wyattturtle19-sys/littledreams/releases/download/0.1.13/patch_0.1.13.pck",
             "size_bytes": 49415924
+        },
+        {
+            "version": "0.1.14",
+            "url": "https://github.com/wyattturtle19-sys/littledreams/releases/download/0.1.14/patch_0.1.14.pck",
+            "size_bytes": 289060
         }
     ]
 }
